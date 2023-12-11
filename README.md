@@ -1,1 +1,1 @@
-# Responsive-News-Letter-Subcription
+# Responsive-News-Letter-Subcription by using HTML, CSS & PHP
